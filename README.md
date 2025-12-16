@@ -1,4 +1,4 @@
-# ❄️ Snowflake Project: Calendars for Finance and Analytics
+#  Snowflake Project: Calendars for Finance and Analytics
 
 ### Cloud Data Platform (Snowflake) and Advanced SQL Modeling
 
